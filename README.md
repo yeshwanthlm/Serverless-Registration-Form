@@ -2,6 +2,12 @@
 
 ## Step 1: Create DynamoDB Table
 
+```sh
+Table Name: registration-table
+Partition key: email
+
+```
+
 ## Step 2: Create IAM Role for Lambda Function
 
 ## Step 3: Create Lambda Function
