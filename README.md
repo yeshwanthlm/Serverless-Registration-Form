@@ -20,6 +20,12 @@ Permissions:
 
 ## Step 3: Create Lambda Function
 
+```sh
+Function Name: registration-form-function
+Runtime: Python 3.9
+
+```
+
 ## Step 4: Write Lambda Function
 
 ## Step 5: Create API Gateway and Enable CORS
