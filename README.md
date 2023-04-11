@@ -6,7 +6,11 @@
 
 ## Step 3: Create Lambda Function
 
-## Step 4: Create API Gateway and Enable CORS
+## Step 4: Write Lambda Function
+
+## Step 5: Create API Gateway and Enable CORS
+
+## Step 6: Test the Project
 
 
 ### Enable CORS: 
